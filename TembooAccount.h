@@ -8,9 +8,9 @@
 #ifndef TEMBOOACCOUNT_H_
 #define TEMBOOACCOUNT_H_
 
-#define TEMBOO_ACCOUNT "samanta"  // Your Temboo account name
-#define TEMBOO_APP_KEY_NAME "myFirstApp"  // Your Temboo app name
-#define TEMBOO_APP_KEY "tPt4ommhb8sNyHhyxSG4o9QMSllX0zxo"  // Your Temboo app key
+#define TEMBOO_ACCOUNT "yourtembooaccount"  // Your Temboo account name
+#define TEMBOO_APP_KEY_NAME "yourtembooappname"  // Your Temboo app name
+#define TEMBOO_APP_KEY "yourtembooappkey"  // Your Temboo app key
 
 #endif /* TEMBOOACCOUNT_H_ */
 
